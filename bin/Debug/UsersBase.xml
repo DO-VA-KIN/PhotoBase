@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<ArrayOfUsersClass xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <UsersClass>
+    <Name>aa</Name>
+    <Summ>500</Summ>
+    <PathPhotos />
+  </UsersClass>
+  <UsersClass>
+    <Name>иван</Name>
+    <Summ>50</Summ>
+    <PathPhotos>
+      <string>c:</string>
+      <string>a:</string>
+    </PathPhotos>
+  </UsersClass>
+  <UsersClass>
+    <Name>Фёдор</Name>
+    <Summ>30</Summ>
+    <PathPhotos>
+      <string>C:\Users\Alex\Downloads\monitor.ico</string>
+    </PathPhotos>
+  </UsersClass>
+</ArrayOfUsersClass>
